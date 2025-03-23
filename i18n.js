@@ -5,9 +5,9 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 const resources = {
   en: {
     translation: {
-      "revoluciona": "USVP Token: 🏛️💎 Transform your investments into luxury properties. Premium real estate's future, today. 🏆",
+      "revoluciona": "DRACMA Token: 🏛️💎 Transform your investments into luxury properties. Premium real estate's future, today. 🏆",
       "Billetera": "First all, Connect your Wallet",
-      "presale-title": "USVP Pre-Sale",
+      "presale-title": "DRACMA Pre-Sale",
       "Escoger Token": "Choose Token",
       "Comprar Ahora": "Buy Now",
       "progress-date": "Sale progress",
@@ -28,7 +28,7 @@ const resources = {
       "balance": " Balance:",
       "select-payment": "Select payment method:",
       "enter-amount": "Enter Amount in",
-      "total-raix": "Total USVP to receive:",
+      "total-raix": "Total DRACMA to receive:",
       "transaction-notice": "* Please press the button twice, the first time is to approve the transaction and the second time to complete the purchase.",
       "Detalles Técnicos": "Technical Details",
   "Nombre del token": "Token Name: ",
@@ -46,9 +46,9 @@ const resources = {
   },
   sp: {
     translation: {
-      "revoluciona": "Token USVP: 🏛️💎 Transforma tus inversiones en propiedades de lujo. El futuro del real estate premium, hoy. 🏆",
+      "revoluciona": "Token DRACMA: 🏛️💎 Transforma tus inversiones en propiedades de lujo. El futuro del real estate premium, hoy. 🏆",
       "Billetera": "Primero que todo, conecte su  Billetera",
-      "presale-title": "Preventa de USVP",
+      "presale-title": "Preventa de DRACMA",
       "Escoger Token": "Escoger Token",
       "Comprar Ahora": "Comprar Ahora",
       "progress-date": "Progreso de la venta",
@@ -68,7 +68,7 @@ const resources = {
       "balance": "Balance:",
       "select-payment": "Seleccionar medio de pago:",
       "enter-amount": "Ingresar Cantidad en",
-      "total-raix": "Total USVP a recibir:",
+      "total-raix": "Total DRACMA a recibir:",
       "tokensventa": "Tokens en Venta:",
       "transaction-notice": "* Por favor presione el botón dos veces, la primera vez es para aprobar la transacción y la segunda para realizar la compra.",
       "Detalles Técnicos": "Detalles Técnicos",
@@ -85,9 +85,9 @@ const resources = {
   },
   zh: {
     translation: {
-      "revoluciona": "USVP代币：🏛️💎 将您的投资转化为豪华物业。今天体验房地产未来的奢华。🏆",
+      "revoluciona": "DRACMA代币：🏛️💎 将您的投资转化为豪华物业。今天体验房地产未来的奢华。🏆",
     "Billetera": "首先，连接您的钱包",
-    "presale-title": "USVP预售",
+    "presale-title": "DRACMA预售",
     "Escoger Token": "选择代币",
     "Comprar Ahora": "立即购买",
     "progress-date": "销售进度",
@@ -108,7 +108,7 @@ const resources = {
     "balance": "余额：",
     "select-payment": "选择支付方式：",
     "enter-amount": "输入数量",
-    "total-raix": "将获得的USVP总量：",
+    "total-raix": "将获得的DRACMA总量：",
     "transaction-notice": "* 请按两次按钮，第一次用于批准交易，第二次用于完成购买。",
     "Detalles Técnicos": "技术细节",
     "Nombre del token": "代币名称：",
@@ -124,9 +124,9 @@ const resources = {
   },
   ar: {
     translation: {
-      "revoluciona": "رمز USVP: 🏛️💎 تحويل استثماراتك إلى عقارات فاخرة. مستقبل العقارات الراقية، اليوم. 🏆",
+      "revoluciona": "رمز DRACMA: 🏛️💎 تحويل استثماراتك إلى عقارات فاخرة. مستقبل العقارات الراقية، اليوم. 🏆",
     "Billetera": "أولاً، قم بربط محفظتك",
-    "presale-title": "البيع المسبق لـ USVP",
+    "presale-title": "البيع المسبق لـ DRACMA",
     "Escoger Token": "اختر الرمز",
     "Comprar Ahora": "اشتري الآن",
     "progress-date": "تقدم البيع",
@@ -147,7 +147,7 @@ const resources = {
     "balance": "الرصيد:",
     "select-payment": "اختر طريقة الدفع:",
     "enter-amount": "أدخل الكمية بـ",
-    "total-raix": "إجمالي USVP للحصول عليه:",
+    "total-raix": "إجمالي DRACMA للحصول عليه:",
     "transaction-notice": "* من فضلك، اضغط على الزر مرتين، المرة الأولى للموافقة على المعاملة والمرة الثانية لإكمال الشراء.",
     "Detalles Técnicos": "التفاصيل الفنية",
     "Nombre del token": "اسم الرمز:",
@@ -163,9 +163,9 @@ const resources = {
   },
   ru: {
     translation: {
-      "revoluciona": "USVP Token: 🏛️💎 Преобразуйте ваши инвестиции в роскошную недвижимость. Будущее премиум-недвижимости - сегодня. 🏆",
+      "revoluciona": "DRACMA Token: 🏛️💎 Преобразуйте ваши инвестиции в роскошную недвижимость. Будущее премиум-недвижимости - сегодня. 🏆",
     "Billetera": "Сначала подключите ваш кошелек",
-    "presale-title": "Предпродажа USVP",
+    "presale-title": "Предпродажа DRACMA",
     "Escoger Token": "Выберите токен",
     "Comprar Ahora": "Купить сейчас",
     "progress-date": "Прогресс продажи",
@@ -186,7 +186,7 @@ const resources = {
     "balance": "Баланс:",
     "select-payment": "Выберите способ оплаты:",
     "enter-amount": "Введите сумму в",
-    "total-raix": "Общее количество USVP для получения:",
+    "total-raix": "Общее количество DRACMA для получения:",
     "transaction-notice": "* Нажмите кнопку дважды, первый раз для подтверждения транзакции, второй раз для завершения покупки.",
     "Detalles Técnicos": "Технические детали",
     "Nombre del token": "Название токена:",

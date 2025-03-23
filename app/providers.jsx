@@ -17,7 +17,7 @@ const queryClient = new QueryClient({
 // mainnet 
 
 const config = getDefaultConfig({
-  appName: 'USVP Web3',
+  appName: 'DRACMA Web3',
   projectId: '147f1ced0fc70fd33bc82189d73ebb43',
   chains: [bsc],
   transports: {
@@ -30,7 +30,7 @@ const config = getDefaultConfig({
 
 /*/  //testnet 
 const config = getDefaultConfig({
-  appName: 'USVP Web3',
+  appName: 'DRACMA Web3',
   projectId: '147f1ced0fc70fd33bc82189d73ebb43',
   chains: [bscTestnet ],
   transports: {

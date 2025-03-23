@@ -309,7 +309,7 @@ export default function Home() {
         onClick={buyHandler}
         className="w-40 h-30 bg-gradient-to-r from-purple-500 to-gray-500 hover:from-purple-600 hover:to-indigo-600 text-white font-semibold py-2 px-4 rounded-md shadow"
       >
-        Buy USVP NOW
+        Buy DRACMA NOW
       </button>
     } else if (allowance < parseEther(amountUSD.toString(), "wei") || !isApproveStarted) {
       return <button
@@ -331,7 +331,7 @@ export default function Home() {
     <I18nextProvider i18n={i18nfile}>
       <div className="min-h-screen bg-gray-200 flex">
         <Head>
-          <title>Sitio de Preventa | USVP </title>
+          <title>Sitio de Preventa | DRACMA </title>
           <meta
             name="description"
             content="Participa en la comunidad más disruptiva del Real State y el Web3.0, el futuro de los servicios financieros e innmobiliarios"
@@ -365,7 +365,7 @@ export default function Home() {
                 src={require('./assets/logopreventa.png')}
                 className=" w-20"
               />
-              <motion.p className="text-black pb-4 pt-2">USVP  </motion.p>
+              <motion.p className="text-black pb-4 pt-2">DRACMA  </motion.p>
             </div>
           )}
           {!active && (
@@ -378,7 +378,7 @@ export default function Home() {
                 src={require('./assets/logo.png')}
                 className=" w-10"
               />
-              <motion.p className="text-black pb-4 pt-2">USVP</motion.p>
+              <motion.p className="text-black pb-4 pt-2">DRACMA</motion.p>
             </div>
           )}
           <div
@@ -683,12 +683,12 @@ export default function Home() {
         </p>
 
         <p className="w-full pb-8 text-sm tracking-wide leading-tight text-white">
-          {t( "target")} 1,000,000 USVP 
+          {t( "target")} 1,000,000 DRACMA 
         </p>
         <div className="miboton">
           <div className="opacity-95 border rounded-lg border-white px-4">
           <p className="m-auto inset-0 text-sm font-medium leading-normal text-center text-white py-2" style={{ cursor: "pointer" }}>
-            <a href="https://www.usvptoken.com/">{t("visit-website")}</a>
+            <a href="https://www.DRACMAtoken.com/">{t("visit-website")}</a>
           </p>
           </div>
         </div>
@@ -708,7 +708,7 @@ export default function Home() {
                     </h3>
 
                     <p className="mt-2 text-sm text-gray-500">
-                     {t("tokensventa")}<p className="bold">1,000,000 USVP</p>
+                     {t("tokensventa")}<p className="bold">1,000,000 DRACMA</p>
                     </p>
                     <p className="mt-2 text-sm text-gray-500">
                      {t("precio")}<p className="bold">0,15 USD</p>

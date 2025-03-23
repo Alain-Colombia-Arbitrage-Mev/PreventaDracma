@@ -607,7 +607,7 @@ const handleApprove = useCallback(async () => {
        <div className="min-h-screen bg-gray-200 flex flex-col md:flex-row">
       {/* Sidebar */}
         <Head>
-          <title>Sitio de Preventa | USVP </title>
+          <title>Sitio de Preventa | DRACMA </title>
           <meta
             name="description"
             content="Participa en la comunidad más disruptiva del Real State y el Web3.0, el futuro de los servicios financieros e innmobiliarios"
@@ -640,7 +640,7 @@ const handleApprove = useCallback(async () => {
                 src={require('./assets/logopreventa.png')}
                 className="w-20"
               />
-              <motion.p className="text-black pb-4 pt-2">USVP</motion.p>
+              <motion.p className="text-black pb-4 pt-2">DRACMA</motion.p>
               </div>
           )}
           {!active && (
@@ -650,7 +650,7 @@ const handleApprove = useCallback(async () => {
                 src={require('./assets/logo.png')}
                 className="w-10"
               />
-               <motion.p className="text-black pb-4 pt-2">USVP</motion.p>
+               <motion.p className="text-black pb-4 pt-2">DRACMA</motion.p>
             </div>
           )}
              </div>
@@ -967,7 +967,7 @@ const handleApprove = useCallback(async () => {
                       {t("remaining")} {formatUnits(totalSold || BigInt(0), 18)}
                     </p>
                     <p className="w-full pb-8 text-sm tracking-wide leading-tight text-white">
-                      {t("target")} 1,000,000 USVP
+                      {t("target")} 1,000,000 DRACMA
                     </p>
 
                     {/* Technical Details */}
@@ -975,10 +975,10 @@ const handleApprove = useCallback(async () => {
                       {t("Detalles Técnicos")}
                     </h1>
                     <p className="w-full text-sm tracking-wide leading-tight text-white text-bold">
-                      {t("Nombre del token")}: USVP
+                      {t("Nombre del token")}: DRACMA
                     </p>
                     <p className="w-full text-sm tracking-wide leading-tight text-white text-bold">
-                      {t("Symbol")}: USVP
+                      {t("Symbol")}: DRACMA
                     </p>
                     <p className="w-full text-sm tracking-wide leading-tight text-white text-bold">
                       {t("Smart-contract")}: 0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5
@@ -990,14 +990,14 @@ const handleApprove = useCallback(async () => {
                     <div className="miboton">
   <div className="opacity-95 border rounded-lg border-white px-4">
     <p className="m-auto inset-0 text-sm font-medium leading-normal text-center text-white py-2" style={{ cursor: "pointer" }}>
-      <a href="https://www.usvprwa.com/">{t("visit-website")}</a>
+      <a href="https://www.DRACMArwa.com/">{t("visit-website")}</a>
     </p>
   </div>
 </div>
 <div className="miboton2 mt-4"> {/* Añadido mt-4 para dar espacio entre botones */}
   <div className="opacity-95 border rounded-lg border-white px-4">
     <p className="m-auto inset-0 text-sm font-medium leading-normal text-center text-white py-2" style={{ cursor: "pointer" }}>
-      <a href="https://www.usvprwa.com/whitepaper">Whitepaper</a>
+      <a href="https://www.DRACMArwa.com/whitepaper">Whitepaper</a>
     </p>
   </div>
 </div>
@@ -1014,7 +1014,7 @@ const handleApprove = useCallback(async () => {
                     </h3>
 
                     <p className="mt-2 text-sm text-gray-500">
-                      {t("tokensventa")}<span>1,000,000 USVP</span>
+                      {t("tokensventa")}<span>1,000,000 DRACMA</span>
                     </p>
                     <p className="mt-2 text-sm text-gray-500">
                       {t("precio")}<span>0,75 USD</span>

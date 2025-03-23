@@ -23,9 +23,9 @@ declare const window: EthereumWindow;
 
 const TOKEN_CONFIG: TokenConfig = {
   address: '0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5',
-  symbol: 'USVP',
+  symbol: 'DRACMA',
   decimals: 18,
-  image: 'https://usvptoken.com/images/logo.png',
+  image: 'https://DRACMAtoken.com/images/logo.png',
   chainId: '0x38', // Chain ID de BSC (56 en hex)
   chainName: 'Binance Smart Chain'
 };
@@ -121,7 +121,7 @@ interface AddTokenButtonProps {
 
 const AddTokenButton: React.FC<AddTokenButtonProps> = ({ 
   className = "",
-  buttonText = "Añadir USVP a MetaMask"
+  buttonText = "Añadir DRACMA a MetaMask"
 }) => {
   return (
     <button
