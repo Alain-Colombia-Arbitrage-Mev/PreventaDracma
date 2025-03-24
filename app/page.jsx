@@ -997,7 +997,7 @@ const handleApprove = useCallback(async () => {
 <div className="miboton2 mt-4"> {/* Añadido mt-4 para dar espacio entre botones */}
   <div className="opacity-95 border rounded-lg border-white px-4">
     <p className="m-auto inset-0 text-sm font-medium leading-normal text-center text-white py-2" style={{ cursor: "pointer" }}>
-      <a href="https://www.DRACMArwa.com/whitepaper">Whitepaper</a>
+      <a href="https://dracma.gitbook.io/dracma">Whitepaper</a>
     </p>
   </div>
 </div>
