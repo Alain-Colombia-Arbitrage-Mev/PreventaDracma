@@ -1,6 +1,6 @@
 🌿🌍 Welcome to DRACMA Token! 📱
 
-🚀 Discover DRACMA, a token backed by real estate assets, enabling fractional real estate investment. The token address is: 0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5. Operating on the Binance Smart Chain, you can acquire DRACMA using USDT and BUSD.
+🚀 Discover DRACMA, a token backed by real estate assets, enabling fractional real estate investment. The token address is: 0x8A9f07fdBc75144C9207373597136c6E280A872D. Operating on the Binance Smart Chain, you can acquire DRACMA using USDT and BUSD.
 
 ⚙️ To invest, first approve the token spending, then proceed with your purchase using the button below.
 
@@ -14,7 +14,7 @@ Spanish:
 
 🌿🌍 ¡Bienvenido/a al Token DRACMA! 📱
 
-🚀 Descubre DRACMA, un token respaldado por activos inmobiliarios, permitiendo la inversión fraccionada en bienes raíces. La dirección del token es: 0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5. Funcionando en la Binance Smart Chain, puedes adquirir DRACMA utilizando USDT y BUSD.
+🚀 Descubre DRACMA, un token respaldado por activos inmobiliarios, permitiendo la inversión fraccionada en bienes raíces. La dirección del token es: 0x8A9f07fdBc75144C9207373597136c6E280A872D. Funcionando en la Binance Smart Chain, puedes adquirir DRACMA utilizando USDT y BUSD.
 
 ⚙️ Para invertir, primero aprueba el gasto del token y luego procede con tu compra usando el botón de abajo.
 

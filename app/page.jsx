@@ -981,7 +981,7 @@ const handleApprove = useCallback(async () => {
                       {t("Symbol")}: DRACMA
                     </p>
                     <p className="w-full text-sm tracking-wide leading-tight text-white text-bold">
-                      {t("Smart-contract")}: 0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5
+                      {t("Smart-contract")}: 0x8A9f07fdBc75144C9207373597136c6E280A872D
                     </p>
                     <p className="w-full pb-8 text-sm tracking-wide leading-tight text-white">
                       <span className="font-bold">{t("Network")}</span>: Binance Smart Chain

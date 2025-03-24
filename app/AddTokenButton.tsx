@@ -22,7 +22,7 @@ interface EthereumWindow extends Window {
 declare const window: EthereumWindow;
 
 const TOKEN_CONFIG: TokenConfig = {
-  address: '0x3C85D4cd4243dF9329d984AC5ADdDdCbE633cef5',
+  address: '0x8A9f07fdBc75144C9207373597136c6E280A872D',
   symbol: 'DRACMA',
   decimals: 18,
   image: 'https://DRACMAtoken.com/images/logo.png',
