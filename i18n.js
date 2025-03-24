@@ -5,7 +5,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 const resources = {
   en: {
     translation: {
-      "revoluciona": "DRACMA Token: 🏛️💎 Transform your investments into luxury properties. Premium real estate's future, today. 🏆",
+      "revoluciona": "🔑 Collaborative economy token enabling early-stage real estate investment through innovative crowdfunding 🏆",
       "Billetera": "First all, Connect your Wallet",
       "presale-title": "DRACMA Pre-Sale",
       "Escoger Token": "Choose Token",
@@ -46,7 +46,7 @@ const resources = {
   },
   sp: {
     translation: {
-      "revoluciona": "Token DRACMA: 🏛️💎 Transforma tus inversiones en propiedades de lujo. El futuro del real estate premium, hoy. 🏆",
+      "revoluciona": "🔑 Token de economía colaborativa que permite inversión en bienes raíces en etapa temprana mediante crowdfunding innovador 🏆",
       "Billetera": "Primero que todo, conecte su  Billetera",
       "presale-title": "Preventa de DRACMA",
       "Escoger Token": "Escoger Token",
@@ -85,7 +85,7 @@ const resources = {
   },
   zh: {
     translation: {
-      "revoluciona": "DRACMA代币：🏛️💎 将您的投资转化为豪华物业。今天体验房地产未来的奢华。🏆",
+      "revoluciona": "🔑 协作经济代币，通过创新众筹使投资者能够投资高潜力的早期房地产项目 🏆",
     "Billetera": "首先，连接您的钱包",
     "presale-title": "DRACMA预售",
     "Escoger Token": "选择代币",
@@ -124,7 +124,7 @@ const resources = {
   },
   ar: {
     translation: {
-      "revoluciona": "رمز DRACMA: 🏛️💎 تحويل استثماراتك إلى عقارات فاخرة. مستقبل العقارات الراقية، اليوم. 🏆",
+      "revoluciona": "🔑 رمز اقتصاد تعاوني يتيح الاستثمار في العقارات عالية الإمكانات في مراحلها المبكرة من خلال التمويل الجماعي المبتكر 🏆",
     "Billetera": "أولاً، قم بربط محفظتك",
     "presale-title": "البيع المسبق لـ DRACMA",
     "Escoger Token": "اختر الرمز",
@@ -163,7 +163,7 @@ const resources = {
   },
   ru: {
     translation: {
-      "revoluciona": "DRACMA Token: 🏛️💎 Преобразуйте ваши инвестиции в роскошную недвижимость. Будущее премиум-недвижимости - сегодня. 🏆",
+      "revoluciona": "🔑 Токен совместной экономики, обеспечивающий инвестиции в перспективную недвижимость на ранней стадии через инновационный краудфандинг 🏆",
     "Billetera": "Сначала подключите ваш кошелек",
     "presale-title": "Предпродажа DRACMA",
     "Escoger Token": "Выберите токен",

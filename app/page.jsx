@@ -712,7 +712,7 @@ const handleApprove = useCallback(async () => {
                             <button
                               onClick={openConnectModal}
                               type="button"
-                              className="flex items-center justify-center w-full py-2 my-2 font-bold text-black bg-green-400 rounded-lg"
+                              className="flex items-center justify-center w-full py-2 my-2 font-bold text-white rounded-lg" style={{backgroundColor: '#183FFF'}}
                             >
                               <BsWallet className="text-2xl mr-2 ml-2" />
                               <motion.p animate={controlText}>
@@ -923,7 +923,7 @@ const handleApprove = useCallback(async () => {
     <div className="inicial  w-full ">
     <div className="overflow-y-auto min-h-screen px-4 md:px-8 pt-8">
            <motion.h1
-  className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-center font-extrabold tracking-tight leading-[1.1] text-white mb-6"
+  className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-center font-extrabold tracking-tight leading-[1.1] text-white mb-6 mt-8"
   initial={{ opacity: 0, y: -50 }}
   animate={{ opacity: 1, y: 0 }}
   transition={{ duration: 1, delay: 0.2 }}
