@@ -38,7 +38,7 @@ import { AiFillFire, AiFillMessage, AiFillDollarCircle } from 'react-icons/ai';
 import imgReferido from './assets/referido.png';
 
 // Contract address for mainnet
-const CONTRACT_ADDRESS = '0xEb258Ac69daF8374dA2295fB251d3C3b065A2Be7';
+const CONTRACT_ADDRESS = '0xf012e31eFDC2485285E2E27175fa9397dF372bf7';
 
 
 // Contract address for testnet
@@ -82,12 +82,12 @@ const tokens = [
     iconHeight: 24 
   },
   { 
-    label: 'usdc', 
-    address: '0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d', 
+    label: 'WBNB', 
+    address: '0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c', 
     id: 1, 
     decimals: 18, 
     icon: usdcicon, 
-    abi: USDC,
+    abi: ERC20ABI,
     iconWidth: 24, 
     iconHeight: 24 
   },
@@ -1017,7 +1017,7 @@ const handleApprove = useCallback(async () => {
                       {t("tokensventa")}<span>1,000,000 DRACMA</span>
                     </p>
                     <p className="mt-2 text-sm text-gray-500">
-                      {t("precio")}<span>0,75 USD</span>
+                      {t("precio")}<span>0,10 USD</span>
                     </p>
                   </div>
 
