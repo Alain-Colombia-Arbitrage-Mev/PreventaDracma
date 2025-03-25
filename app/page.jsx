@@ -1014,7 +1014,7 @@ const handleApprove = useCallback(async () => {
                     </h3>
 
                     <p className="mt-2 text-sm text-gray-500">
-                      {t("tokensventa")}<span>1,000,000 DRACMA</span>
+                      {t("tokensventa")}<span>97,000,000 DRACMA</span>
                     </p>
                     <p className="mt-2 text-sm text-gray-500">
                       {t("precio")}<span>0,10 USD</span>
